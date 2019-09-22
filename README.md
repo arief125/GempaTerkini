@@ -1,4 +1,4 @@
-# GampaTerikini
+# GempaTerkini
 
 Gampa Terkini yang diambil dari data BMKG [Badan Meteorologi Klimatologi dan Geofisika] yang beralamat => http://data.bmkg.go.id/autogempa.xml
 
@@ -9,7 +9,7 @@ Tools ini dibuat 3 bahasa, yaitu :
 # Usage :
 1. Clone repository 
 ```
-  $ git clone https://github.com/suhada99/GampaTerikini.git
+  $ git clone https://github.com/arief125/GempaTerkini.git
 ```
 2. Example for script python
 ```
